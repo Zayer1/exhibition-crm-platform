@@ -17,3 +17,9 @@ target/
 # Keep the source data in Git.
 !data/
 !data/**
+.venv/
+__pycache__/
+
+# Local database and notes
+crm.db
+WHERE_WE_LEFT_OFF.md
